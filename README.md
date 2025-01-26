@@ -1,4 +1,4 @@
 # Trial_1
 This is my first Repository
 <br>
-Author - Krishna Shrivastav
+Author - Krishna Ashok Shrivastav
